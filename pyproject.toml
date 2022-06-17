@@ -2,7 +2,7 @@
 name = "ChatApp"
 version = "2.1.4"
 description = ""
-authors = ["shervin-glitch <shervin2234@gmail.com>"]
+authors = ["shervinbdndev <shervin2234@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
