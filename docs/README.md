@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/shervinbdndev/ChatApp">
-    <img src="https://github.com/shervinbdndev/ChatApp/blob/master/src/images/logo.png" alt="Logo" width="180">
+    <img src="https://github.com/shervinbdndev/ChatApp/blob/master/src/images/logo.png" alt="Logo" width="250">
   </a>
   <h1 align='center' style="font-size:5rem"><b>Chat App</b></h1>
 
